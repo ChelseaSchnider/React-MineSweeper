@@ -4,3 +4,4 @@ Minesweeper is a simple game where a user clicks on tiles to reveal whether ther
 If a tile that hides a “mine” is clicked, the user loses and the game is over. 
 
 Download the file, install the node-modules by typing "npm install" and once they are install. type "npm start"
+https://react-minesweeper-game.herokuapp.com/
